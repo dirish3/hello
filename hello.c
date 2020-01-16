@@ -9,9 +9,12 @@
 #include<stdio.h>
 
 int main(void){
-	
+
 	printf("Derek Irish\n");
 	printf("Electrical Engineering\n");
+
+	printf("Jialong Zhang\n");
+	printf("Computer Science\n");
 	return 0;
 
 }
